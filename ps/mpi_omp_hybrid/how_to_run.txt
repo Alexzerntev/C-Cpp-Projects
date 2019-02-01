@@ -1,0 +1,11 @@
+compile:
+    make
+
+clean:
+    make clean
+
+run:
+    mpirun -np 4 ./run
+
+run on multiple machines:
+    mpiexec -f machines -n 8 run

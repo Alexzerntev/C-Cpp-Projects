@@ -1,0 +1,25 @@
+Execution Time: 202.451
+Cosine LSH Recomendation MAE: 0.109761
+Execution Time: 287.329
+Cosine LSH Recomendation MAE: 0.109761
+Execution Time: 202.752
+Cosine LSH Recomendation MAE: 0.0610607
+Execution Time: 203.05
+Cosine LSH Recomendation MAE: 0.121422
+Execution Time: 282.56
+Clustering Recomendation MAE: 0.14947
+Cosine LSH
+Execution Time: 22.2636
+Cosine LSH Recomendation MAE: 4.85075
+Clustering
+Execution Time: 22.4649
+Clustering Recomendation MAE: 0.151873
+Clustering
+Execution Time: 21.9108
+Clustering Recomendation MAE: 0.151873
+Cosine LSH
+Execution Time: 412.115
+Cosine LSH Recomendation MAE: 0.0918599
+Cosine LSH
+Execution Time: 811.055
+Cosine LSH Recomendation MAE: 0.146611

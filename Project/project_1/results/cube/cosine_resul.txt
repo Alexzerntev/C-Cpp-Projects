@@ -1,0 +1,1300 @@
+Query: 0
+R-near neighbors
+190 (0.165741)
+224 (0.190685)
+292 (0.191186)
+492 (0.200694)
+107 (0.206303)
+Nearest neighbor: 190
+distanceCUBE: 0.165741
+distanceTrue: 0.148192
+tCUBE: 0.004399
+tTrue: 0.088485
+
+Query: 1
+R-near neighbors
+145 (0.149957)
+97 (0.170573)
+280 (0.174184)
+462 (0.174346)
+349 (0.176082)
+Nearest neighbor: 145
+distanceCUBE: 0.149957
+distanceTrue: 0.127847
+tCUBE: 0.004259
+tTrue: 0.084927
+
+Query: 2
+R-near neighbors
+57 (0.142394)
+221 (0.155066)
+71 (0.155597)
+12 (0.164511)
+242 (0.180581)
+Nearest neighbor: 57
+distanceCUBE: 0.142394
+distanceTrue: 0.0828626
+tCUBE: 0.004399
+tTrue: 0.085366
+
+Query: 3
+R-near neighbors
+272 (0.131537)
+107 (0.136059)
+484 (0.136402)
+147 (0.136786)
+124 (0.142944)
+Nearest neighbor: 272
+distanceCUBE: 0.131537
+distanceTrue: 0.0893443
+tCUBE: 0.004278
+tTrue: 0.084113
+
+Query: 4
+R-near neighbors
+358 (0.156419)
+73 (0.173827)
+417 (0.182704)
+409 (0.191504)
+92 (0.194336)
+Nearest neighbor: 358
+distanceCUBE: 0.156419
+distanceTrue: 0.121244
+tCUBE: 0.004941
+tTrue: 0.086739
+
+Query: 5
+R-near neighbors
+288 (0.226787)
+169 (0.234612)
+121 (0.236403)
+151 (0.238464)
+172 (0.239163)
+Nearest neighbor: 288
+distanceCUBE: 0.226787
+distanceTrue: 0.146729
+tCUBE: 0.004323
+tTrue: 0.088613
+
+Query: 6
+R-near neighbors
+287 (0.173028)
+421 (0.173381)
+108 (0.175115)
+495 (0.182169)
+403 (0.182512)
+Nearest neighbor: 287
+distanceCUBE: 0.173028
+distanceTrue: 0.11785
+tCUBE: 0.005826
+tTrue: 0.089725
+
+Query: 7
+R-near neighbors
+36 (0.123892)
+44 (0.132346)
+98 (0.139055)
+338 (0.139976)
+48 (0.141067)
+Nearest neighbor: 36
+distanceCUBE: 0.123892
+distanceTrue: 0.0582756
+tCUBE: 0.004772
+tTrue: 0.090215
+
+Query: 8
+R-near neighbors
+73 (0.142224)
+352 (0.166417)
+433 (0.168923)
+335 (0.175551)
+179 (0.176694)
+Nearest neighbor: 73
+distanceCUBE: 0.142224
+distanceTrue: 0.119274
+tCUBE: 0.00464
+tTrue: 0.088095
+
+Query: 9
+R-near neighbors
+358 (0.162588)
+73 (0.172727)
+158 (0.172829)
+165 (0.176199)
+85 (0.179688)
+Nearest neighbor: 358
+distanceCUBE: 0.162588
+distanceTrue: 0.12109
+tCUBE: 0.004981
+tTrue: 0.085771
+
+Query: 10
+R-near neighbors
+496 (0.189715)
+281 (0.194088)
+249 (0.204436)
+288 (0.210043)
+371 (0.216601)
+Nearest neighbor: 496
+distanceCUBE: 0.189715
+distanceTrue: 0.167304
+tCUBE: 0.004429
+tTrue: 0.087781
+
+Query: 11
+R-near neighbors
+61 (0.112676)
+118 (0.117408)
+205 (0.120827)
+161 (0.12556)
+59 (0.127001)
+Nearest neighbor: 61
+distanceCUBE: 0.112676
+distanceTrue: 0.0572816
+tCUBE: 0.004566
+tTrue: 0.088174
+
+Query: 12
+R-near neighbors
+130 (0.120671)
+128 (0.123302)
+120 (0.129016)
+483 (0.131683)
+170 (0.135048)
+Nearest neighbor: 130
+distanceCUBE: 0.120671
+distanceTrue: 0.110085
+tCUBE: 0.004441
+tTrue: 0.087294
+
+Query: 13
+R-near neighbors
+120 (0.164482)
+403 (0.172791)
+108 (0.174185)
+171 (0.179915)
+487 (0.184928)
+Nearest neighbor: 120
+distanceCUBE: 0.164482
+distanceTrue: 0.115548
+tCUBE: 0.004346
+tTrue: 0.087135
+
+Query: 14
+R-near neighbors
+69 (0.154634)
+279 (0.203489)
+424 (0.21043)
+86 (0.221391)
+305 (0.222247)
+Nearest neighbor: 69
+distanceCUBE: 0.154634
+distanceTrue: 0.144665
+tCUBE: 0.004337
+tTrue: 0.084238
+
+Query: 15
+R-near neighbors
+409 (0.125429)
+2 (0.132927)
+233 (0.134509)
+394 (0.147437)
+0 (0.15625)
+Nearest neighbor: 409
+distanceCUBE: 0.125429
+distanceTrue: 0.124316
+tCUBE: 0.004375
+tTrue: 0.085735
+
+Query: 16
+R-near neighbors
+319 (0.131846)
+470 (0.135787)
+262 (0.135788)
+421 (0.13652)
+288 (0.144038)
+Nearest neighbor: 319
+distanceCUBE: 0.131846
+distanceTrue: 0.119265
+tCUBE: 0.004292
+tTrue: 0.083852
+
+Query: 17
+R-near neighbors
+133 (0.134962)
+107 (0.138646)
+421 (0.140957)
+219 (0.149959)
+25 (0.151078)
+Nearest neighbor: 133
+distanceCUBE: 0.134962
+distanceTrue: 0.125731
+tCUBE: 0.004434
+tTrue: 0.084492
+
+Query: 18
+R-near neighbors
+307 (0.149185)
+142 (0.149669)
+116 (0.151705)
+164 (0.159122)
+475 (0.159156)
+Nearest neighbor: 307
+distanceCUBE: 0.149185
+distanceTrue: 0.1377
+tCUBE: 0.004226
+tTrue: 0.082789
+
+Query: 19
+R-near neighbors
+107 (0.108356)
+144 (0.111052)
+122 (0.115538)
+411 (0.116675)
+126 (0.117401)
+Nearest neighbor: 107
+distanceCUBE: 0.108356
+distanceTrue: 0.0975897
+tCUBE: 0.004242
+tTrue: 0.08247
+
+Query: 20
+R-near neighbors
+70 (0.152708)
+413 (0.167014)
+233 (0.202637)
+425 (0.205739)
+405 (0.209711)
+Nearest neighbor: 70
+distanceCUBE: 0.152708
+distanceTrue: 0.0718209
+tCUBE: 0.004607
+tTrue: 0.083715
+
+Query: 21
+R-near neighbors
+456 (0.131257)
+85 (0.132333)
+195 (0.132964)
+57 (0.133565)
+78 (0.140857)
+Nearest neighbor: 456
+distanceCUBE: 0.131257
+distanceTrue: 0.0125901
+tCUBE: 0.004322
+tTrue: 0.08354
+
+Query: 22
+R-near neighbors
+105 (0.0839028)
+206 (0.087088)
+118 (0.0928859)
+31 (0.103673)
+205 (0.112846)
+Nearest neighbor: 105
+distanceCUBE: 0.0839028
+distanceTrue: 0.0579657
+tCUBE: 0.004344
+tTrue: 0.084448
+
+Query: 23
+R-near neighbors
+165 (0.13684)
+246 (0.142486)
+167 (0.152584)
+158 (0.157225)
+358 (0.168069)
+Nearest neighbor: 165
+distanceCUBE: 0.13684
+distanceTrue: 0.124238
+tCUBE: 0.004324
+tTrue: 0.084846
+
+Query: 24
+R-near neighbors
+205 (0.136256)
+74 (0.137592)
+474 (0.143423)
+166 (0.143669)
+104 (0.1472)
+Nearest neighbor: 205
+distanceCUBE: 0.136256
+distanceTrue: 0.0460618
+tCUBE: 0.004263
+tTrue: 0.084091
+
+Query: 25
+R-near neighbors
+268 (0.168279)
+153 (0.181596)
+157 (0.186161)
+56 (0.196734)
+245 (0.201055)
+Nearest neighbor: 268
+distanceCUBE: 0.168279
+distanceTrue: 0.142386
+tCUBE: 0.004291
+tTrue: 0.08238
+
+Query: 26
+R-near neighbors
+59 (0.130552)
+78 (0.134511)
+57 (0.136499)
+62 (0.146359)
+31 (0.148269)
+Nearest neighbor: 59
+distanceCUBE: 0.130552
+distanceTrue: 0.0649993
+tCUBE: 0.004491
+tTrue: 0.084069
+
+Query: 27
+R-near neighbors
+56 (0.137632)
+409 (0.142889)
+204 (0.156152)
+85 (0.156916)
+88 (0.157162)
+Nearest neighbor: 56
+distanceCUBE: 0.137632
+distanceTrue: 0.0595318
+tCUBE: 0.004242
+tTrue: 0.082978
+
+Query: 28
+R-near neighbors
+456 (0.124502)
+352 (0.155965)
+59 (0.158819)
+91 (0.162854)
+415 (0.164811)
+Nearest neighbor: 456
+distanceCUBE: 0.124502
+distanceTrue: 0.0976395
+tCUBE: 0.004391
+tTrue: 0.082669
+
+Query: 29
+R-near neighbors
+405 (0.186067)
+374 (0.209902)
+295 (0.22662)
+425 (0.231056)
+12 (0.245242)
+Nearest neighbor: 405
+distanceCUBE: 0.186067
+distanceTrue: 0.0302874
+tCUBE: 0.004244
+tTrue: 0.085216
+
+Query: 30
+R-near neighbors
+434 (0.149769)
+116 (0.149811)
+289 (0.160358)
+206 (0.16324)
+86 (0.170127)
+Nearest neighbor: 434
+distanceCUBE: 0.149769
+distanceTrue: 0.135861
+tCUBE: 0.004258
+tTrue: 0.083705
+
+Query: 31
+R-near neighbors
+431 (0.159986)
+92 (0.222874)
+213 (0.229977)
+359 (0.231356)
+100 (0.233563)
+Nearest neighbor: 431
+distanceCUBE: 0.159986
+distanceTrue: 0.0229592
+tCUBE: 0.004374
+tTrue: 0.085154
+
+Query: 32
+R-near neighbors
+153 (0.127737)
+274 (0.140411)
+111 (0.163905)
+268 (0.16689)
+50 (0.177509)
+Nearest neighbor: 153
+distanceCUBE: 0.127737
+distanceTrue: 0.067844
+tCUBE: 0.004272
+tTrue: 0.084918
+
+Query: 33
+R-near neighbors
+368 (0.274622)
+309 (0.295956)
+488 (0.315732)
+452 (0.322438)
+471 (0.322995)
+Nearest neighbor: 368
+distanceCUBE: 0.274622
+distanceTrue: 0.208014
+tCUBE: 0.004463
+tTrue: 0.085298
+
+Query: 34
+R-near neighbors
+21 (0.186499)
+19 (0.19182)
+141 (0.193005)
+11 (0.19746)
+13 (0.199631)
+Nearest neighbor: 21
+distanceCUBE: 0.186499
+distanceTrue: 0.119727
+tCUBE: 0.004321
+tTrue: 0.085507
+
+Query: 35
+R-near neighbors
+270 (0.232246)
+275 (0.242243)
+402 (0.249253)
+94 (0.25058)
+411 (0.252185)
+Nearest neighbor: 270
+distanceCUBE: 0.232246
+distanceTrue: 0.0283779
+tCUBE: 0.004509
+tTrue: 0.084234
+
+Query: 36
+R-near neighbors
+411 (0.219094)
+403 (0.220368)
+288 (0.223485)
+96 (0.226636)
+249 (0.22797)
+Nearest neighbor: 411
+distanceCUBE: 0.219094
+distanceTrue: 0.0240329
+tCUBE: 0.004262
+tTrue: 0.083022
+
+Query: 37
+R-near neighbors
+347 (0.284483)
+406 (0.287681)
+344 (0.290617)
+276 (0.309138)
+244 (0.313406)
+Nearest neighbor: 347
+distanceCUBE: 0.284483
+distanceTrue: 0.0537516
+tCUBE: 0.004682
+tTrue: 0.083985
+
+Query: 38
+R-near neighbors
+220 (0.180099)
+241 (0.185289)
+236 (0.208866)
+307 (0.236024)
+432 (0.256756)
+Nearest neighbor: 220
+distanceCUBE: 0.180099
+distanceTrue: 0.0473192
+tCUBE: 0.004399
+tTrue: 0.085183
+
+Query: 39
+R-near neighbors
+235 (0.145559)
+230 (0.151637)
+69 (0.153319)
+13 (0.156262)
+196 (0.172821)
+Nearest neighbor: 235
+distanceCUBE: 0.145559
+distanceTrue: 0.0725294
+tCUBE: 0.004378
+tTrue: 0.084392
+
+Query: 40
+R-near neighbors
+480 (0.17056)
+383 (0.183582)
+254 (0.203814)
+7 (0.209295)
+134 (0.212894)
+Nearest neighbor: 480
+distanceCUBE: 0.17056
+distanceTrue: 0.0455979
+tCUBE: 0.004377
+tTrue: 0.085994
+
+Query: 41
+R-near neighbors
+440 (0.0823163)
+99 (0.109472)
+68 (0.11931)
+49 (0.119371)
+210 (0.12304)
+Nearest neighbor: 440
+distanceCUBE: 0.0823163
+distanceTrue: 0.0774015
+tCUBE: 0.004267
+tTrue: 0.085336
+
+Query: 42
+R-near neighbors
+416 (0.149422)
+58 (0.151129)
+79 (0.170858)
+320 (0.176011)
+385 (0.195004)
+Nearest neighbor: 416
+distanceCUBE: 0.149422
+distanceTrue: 0.108205
+tCUBE: 0.004459
+tTrue: 0.083931
+
+Query: 43
+R-near neighbors
+431 (0.183623)
+374 (0.184364)
+203 (0.189077)
+85 (0.192018)
+60 (0.194139)
+Nearest neighbor: 431
+distanceCUBE: 0.183623
+distanceTrue: 0.0530062
+tCUBE: 0.004304
+tTrue: 0.085627
+
+Query: 44
+R-near neighbors
+468 (0.127393)
+322 (0.131103)
+448 (0.14851)
+264 (0.157873)
+94 (0.173624)
+Nearest neighbor: 468
+distanceCUBE: 0.127393
+distanceTrue: 0.126939
+tCUBE: 0.004364
+tTrue: 0.083342
+
+Query: 45
+R-near neighbors
+92 (0.162549)
+221 (0.175656)
+358 (0.184442)
+351 (0.213268)
+77 (0.215982)
+Nearest neighbor: 92
+distanceCUBE: 0.162549
+distanceTrue: 0.131809
+tCUBE: 0.004547
+tTrue: 0.084523
+
+Query: 46
+R-near neighbors
+48 (0.197094)
+439 (0.197561)
+44 (0.197671)
+98 (0.19794)
+36 (0.202867)
+Nearest neighbor: 48
+distanceCUBE: 0.197094
+distanceTrue: 0.0191331
+tCUBE: 0.004401
+tTrue: 0.083636
+
+Query: 47
+R-near neighbors
+402 (0.254989)
+412 (0.261286)
+300 (0.284896)
+275 (0.290891)
+317 (0.294991)
+Nearest neighbor: 402
+distanceCUBE: 0.254989
+distanceTrue: 0.167774
+tCUBE: 0.004308
+tTrue: 0.085123
+
+Query: 48
+R-near neighbors
+404 (0.215242)
+291 (0.249706)
+65 (0.267294)
+251 (0.284773)
+359 (0.291703)
+Nearest neighbor: 404
+distanceCUBE: 0.215242
+distanceTrue: 0.0469796
+tCUBE: 0.004225
+tTrue: 0.084228
+
+Query: 49
+R-near neighbors
+168 (0.0912835)
+113 (0.0956292)
+31 (0.11412)
+105 (0.115692)
+54 (0.124104)
+Nearest neighbor: 168
+distanceCUBE: 0.0912835
+distanceTrue: 0.0320867
+tCUBE: 0.004316
+tTrue: 0.086961
+
+Query: 50
+R-near neighbors
+431 (0.201769)
+213 (0.232714)
+343 (0.255786)
+443 (0.275014)
+101 (0.277232)
+Nearest neighbor: 431
+distanceCUBE: 0.201769
+distanceTrue: 0.0633703
+tCUBE: 0.004263
+tTrue: 0.083692
+
+Query: 51
+R-near neighbors
+373 (0.193213)
+69 (0.197498)
+235 (0.216024)
+230 (0.217158)
+404 (0.219831)
+Nearest neighbor: 373
+distanceCUBE: 0.193213
+distanceTrue: 0.0329869
+tCUBE: 0.004349
+tTrue: 0.086166
+
+Query: 52
+R-near neighbors
+57 (0.121047)
+60 (0.127426)
+78 (0.138528)
+456 (0.141049)
+15 (0.144512)
+Nearest neighbor: 57
+distanceCUBE: 0.121047
+distanceTrue: 0.0762445
+tCUBE: 0.004277
+tTrue: 0.082788
+
+Query: 53
+R-near neighbors
+92 (0.12226)
+221 (0.125913)
+60 (0.155815)
+358 (0.167692)
+242 (0.170403)
+Nearest neighbor: 92
+distanceCUBE: 0.12226
+distanceTrue: 0.0727913
+tCUBE: 0.004462
+tTrue: 0.083364
+
+Query: 54
+R-near neighbors
+440 (0.0808204)
+376 (0.0877834)
+438 (0.0952321)
+99 (0.0971494)
+81 (0.109581)
+Nearest neighbor: 440
+distanceCUBE: 0.0808204
+distanceTrue: 0.0489403
+tCUBE: 0.004345
+tTrue: 0.086632
+
+Query: 55
+R-near neighbors
+81 (0.184545)
+99 (0.190676)
+467 (0.1932)
+210 (0.198304)
+449 (0.199905)
+Nearest neighbor: 81
+distanceCUBE: 0.184545
+distanceTrue: 0.0654953
+tCUBE: 0.004301
+tTrue: 0.083342
+
+Query: 56
+R-near neighbors
+104 (0.107482)
+62 (0.111777)
+119 (0.116111)
+331 (0.118202)
+60 (0.122876)
+Nearest neighbor: 104
+distanceCUBE: 0.107482
+distanceTrue: 0.070308
+tCUBE: 0.004284
+tTrue: 0.085392
+
+Query: 57
+R-near neighbors
+448 (0.118806)
+106 (0.136285)
+133 (0.142954)
+144 (0.147483)
+293 (0.15603)
+Nearest neighbor: 448
+distanceCUBE: 0.118806
+distanceTrue: 0.0540138
+tCUBE: 0.004239
+tTrue: 0.084256
+
+Query: 58
+R-near neighbors
+33 (0.21222)
+311 (0.243094)
+175 (0.255024)
+447 (0.271192)
+203 (0.279841)
+Nearest neighbor: 33
+distanceCUBE: 0.21222
+distanceTrue: 0.00836924
+tCUBE: 0.0045
+tTrue: 0.085438
+
+Query: 59
+R-near neighbors
+98 (0.0971761)
+439 (0.103353)
+80 (0.117579)
+36 (0.126371)
+48 (0.127935)
+Nearest neighbor: 98
+distanceCUBE: 0.0971761
+distanceTrue: 0.0252484
+tCUBE: 0.004266
+tTrue: 0.084844
+
+Query: 60
+R-near neighbors
+456 (0.175722)
+415 (0.182934)
+373 (0.183889)
+30 (0.191066)
+9 (0.195957)
+Nearest neighbor: 456
+distanceCUBE: 0.175722
+distanceTrue: 0.0562044
+tCUBE: 0.004272
+tTrue: 0.084263
+
+Query: 61
+R-near neighbors
+12 (0.177993)
+221 (0.219887)
+23 (0.224527)
+15 (0.226233)
+374 (0.240939)
+Nearest neighbor: 12
+distanceCUBE: 0.177993
+distanceTrue: 0.0379561
+tCUBE: 0.004256
+tTrue: 0.082792
+
+Query: 62
+R-near neighbors
+72 (0.262384)
+235 (0.292375)
+312 (0.294195)
+13 (0.30362)
+69 (0.304252)
+Nearest neighbor: 72
+distanceCUBE: 0.262384
+distanceTrue: 0.0333646
+tCUBE: 0.004605
+tTrue: 0.084243
+
+Query: 63
+R-near neighbors
+296 (0.115382)
+414 (0.141731)
+235 (0.178257)
+69 (0.184974)
+13 (0.190313)
+Nearest neighbor: 296
+distanceCUBE: 0.115382
+distanceTrue: 0.0174068
+tCUBE: 0.004293
+tTrue: 0.083359
+
+Query: 64
+R-near neighbors
+424 (0.252776)
+373 (0.285186)
+446 (0.291724)
+267 (0.293563)
+441 (0.298611)
+Nearest neighbor: 424
+distanceCUBE: 0.252776
+distanceTrue: 0.036902
+tCUBE: 0.00444
+tTrue: 0.086226
+
+Query: 65
+R-near neighbors
+376 (0.12542)
+476 (0.140737)
+45 (0.143175)
+49 (0.1456)
+99 (0.159635)
+Nearest neighbor: 376
+distanceCUBE: 0.12542
+distanceTrue: 0.0581148
+tCUBE: 0.004432
+tTrue: 0.086188
+
+Query: 66
+R-near neighbors
+342 (0.268578)
+214 (0.329024)
+203 (0.336926)
+175 (0.338357)
+441 (0.339051)
+Nearest neighbor: 342
+distanceCUBE: 0.268578
+distanceTrue: 0.077795
+tCUBE: 0.004616
+tTrue: 0.088765
+
+Query: 67
+R-near neighbors
+45 (0.212931)
+339 (0.21954)
+226 (0.233512)
+401 (0.237596)
+35 (0.24519)
+Nearest neighbor: 45
+distanceCUBE: 0.212931
+distanceTrue: 0.0971119
+tCUBE: 0.004654
+tTrue: 0.095784
+
+Query: 68
+R-near neighbors
+4 (0.140125)
+12 (0.155558)
+425 (0.158855)
+295 (0.173316)
+70 (0.176537)
+Nearest neighbor: 4
+distanceCUBE: 0.140125
+distanceTrue: 0.0781299
+tCUBE: 0.00453
+tTrue: 0.089969
+
+Query: 69
+R-near neighbors
+332 (0.193423)
+333 (0.196043)
+31 (0.207621)
+446 (0.217323)
+491 (0.218275)
+Nearest neighbor: 332
+distanceCUBE: 0.193423
+distanceTrue: 0.137516
+tCUBE: 0.004594
+tTrue: 0.091201
+
+Query: 70
+R-near neighbors
+13 (0.235585)
+69 (0.241191)
+241 (0.246189)
+296 (0.246455)
+404 (0.251056)
+Nearest neighbor: 13
+distanceCUBE: 0.235585
+distanceTrue: 0.00422304
+tCUBE: 0.004751
+tTrue: 0.089429
+
+Query: 71
+R-near neighbors
+358 (0.271755)
+425 (0.284345)
+222 (0.286912)
+413 (0.290276)
+295 (0.291649)
+Nearest neighbor: 358
+distanceCUBE: 0.271755
+distanceTrue: 0.072575
+tCUBE: 0.004357
+tTrue: 0.088655
+
+Query: 72
+R-near neighbors
+159 (0.22325)
+152 (0.225334)
+110 (0.232398)
+166 (0.236192)
+51 (0.255651)
+Nearest neighbor: 159
+distanceCUBE: 0.22325
+distanceTrue: 0.178035
+tCUBE: 0.005651
+tTrue: 0.086533
+
+Query: 73
+R-near neighbors
+279 (0.222538)
+297 (0.258997)
+305 (0.265764)
+415 (0.283899)
+69 (0.295875)
+Nearest neighbor: 279
+distanceCUBE: 0.222538
+distanceTrue: 0.102526
+tCUBE: 0.005046
+tTrue: 0.093339
+
+Query: 74
+R-near neighbors
+59 (0.122768)
+105 (0.128946)
+162 (0.129722)
+61 (0.133398)
+352 (0.133849)
+Nearest neighbor: 59
+distanceCUBE: 0.122768
+distanceTrue: 0.0332313
+tCUBE: 0.00449
+tTrue: 0.090205
+
+Query: 75
+R-near neighbors
+343 (0.230033)
+395 (0.253276)
+213 (0.258167)
+308 (0.259778)
+410 (0.265274)
+Nearest neighbor: 343
+distanceCUBE: 0.230033
+distanceTrue: 0.0869535
+tCUBE: 0.004575
+tTrue: 0.088715
+
+Query: 76
+R-near neighbors
+339 (0.170819)
+330 (0.217547)
+401 (0.230591)
+176 (0.237427)
+449 (0.244353)
+Nearest neighbor: 339
+distanceCUBE: 0.170819
+distanceTrue: 0.121994
+tCUBE: 0.00451
+tTrue: 0.087513
+
+Query: 77
+R-near neighbors
+23 (0.259703)
+15 (0.265829)
+29 (0.286931)
+304 (0.290978)
+266 (0.300397)
+Nearest neighbor: 23
+distanceCUBE: 0.259703
+distanceTrue: 0.167064
+tCUBE: 0.004508
+tTrue: 0.087839
+
+Query: 78
+R-near neighbors
+57 (0.173457)
+104 (0.185803)
+0 (0.188696)
+78 (0.189807)
+140 (0.192874)
+Nearest neighbor: 57
+distanceCUBE: 0.173457
+distanceTrue: 0.0995002
+tCUBE: 0.00562
+tTrue: 0.09007
+
+Query: 79
+R-near neighbors
+98 (0.123843)
+80 (0.13815)
+36 (0.14609)
+44 (0.148361)
+48 (0.155696)
+Nearest neighbor: 98
+distanceCUBE: 0.123843
+distanceTrue: 0.042238
+tCUBE: 0.005457
+tTrue: 0.094381
+
+Query: 80
+R-near neighbors
+41 (0.215877)
+47 (0.222217)
+35 (0.227024)
+330 (0.243414)
+401 (0.250772)
+Nearest neighbor: 41
+distanceCUBE: 0.215877
+distanceTrue: 0.0412215
+tCUBE: 0.004648
+tTrue: 0.091669
+
+Query: 81
+R-near neighbors
+366 (0.184925)
+265 (0.185487)
+380 (0.190463)
+473 (0.208869)
+306 (0.214231)
+Nearest neighbor: 366
+distanceCUBE: 0.184925
+distanceTrue: 0.147644
+tCUBE: 0.004651
+tTrue: 0.0873
+
+Query: 82
+R-near neighbors
+51 (0.145513)
+390 (0.150786)
+90 (0.152317)
+64 (0.152468)
+273 (0.156004)
+Nearest neighbor: 51
+distanceCUBE: 0.145513
+distanceTrue: 0.143349
+tCUBE: 0.004328
+tTrue: 0.084839
+
+Query: 83
+R-near neighbors
+456 (0.177207)
+60 (0.179511)
+374 (0.202406)
+12 (0.203772)
+311 (0.206509)
+Nearest neighbor: 456
+distanceCUBE: 0.177207
+distanceTrue: 0.0635985
+tCUBE: 0.004412
+tTrue: 0.084647
+
+Query: 84
+R-near neighbors
+359 (0.163418)
+166 (0.171934)
+91 (0.173149)
+447 (0.179026)
+104 (0.18119)
+Nearest neighbor: 359
+distanceCUBE: 0.163418
+distanceTrue: 0.071851
+tCUBE: 0.004249
+tTrue: 0.085581
+
+Query: 85
+R-near neighbors
+279 (0.39279)
+305 (0.408202)
+424 (0.417541)
+297 (0.433749)
+415 (0.439183)
+Nearest neighbor: 279
+distanceCUBE: 0.39279
+distanceTrue: 0.156554
+tCUBE: 0.004247
+tTrue: 0.083867
+
+Query: 86
+R-near neighbors
+226 (0.268988)
+392 (0.281773)
+401 (0.282862)
+176 (0.295464)
+364 (0.29929)
+Nearest neighbor: 226
+distanceCUBE: 0.268988
+distanceTrue: 0.0977167
+tCUBE: 0.00444
+tTrue: 0.085146
+
+Query: 87
+R-near neighbors
+344 (0.298808)
+347 (0.356524)
+35 (0.360259)
+249 (0.387955)
+41 (0.391232)
+Nearest neighbor: 344
+distanceCUBE: 0.298808
+distanceTrue: 0.0294188
+tCUBE: 0.004357
+tTrue: 0.085921
+
+Query: 88
+R-near neighbors
+376 (0.194719)
+330 (0.204975)
+49 (0.217612)
+440 (0.219832)
+339 (0.220977)
+Nearest neighbor: 376
+distanceCUBE: 0.194719
+distanceTrue: 0.0109034
+tCUBE: 0.004477
+tTrue: 0.085138
+
+Query: 89
+R-near neighbors
+46 (0.0970593)
+80 (0.104113)
+36 (0.123979)
+98 (0.126466)
+44 (0.140904)
+Nearest neighbor: 46
+distanceCUBE: 0.0970593
+distanceTrue: 0.025345
+tCUBE: 0.004447
+tTrue: 0.085023
+
+Query: 90
+R-near neighbors
+103 (0.0513781)
+204 (0.0565366)
+117 (0.0625712)
+66 (0.0775202)
+32 (0.083105)
+Nearest neighbor: 103
+distanceCUBE: 0.0513781
+distanceTrue: 0.00490278
+tCUBE: 0.004598
+tTrue: 0.085521
+
+Query: 91
+R-near neighbors
+384 (0.278085)
+289 (0.287749)
+207 (0.298897)
+116 (0.302702)
+454 (0.304105)
+Nearest neighbor: 384
+distanceCUBE: 0.278085
+distanceTrue: 0.171555
+tCUBE: 0.004287
+tTrue: 0.083785
+
+Query: 92
+R-near neighbors
+441 (0.237859)
+432 (0.253209)
+447 (0.254464)
+472 (0.258121)
+186 (0.268602)
+Nearest neighbor: 441
+distanceCUBE: 0.237859
+distanceTrue: 0.0387243
+tCUBE: 0.004536
+tTrue: 0.085618
+
+Query: 93
+R-near neighbors
+69 (0.20069)
+11 (0.208786)
+296 (0.212248)
+414 (0.218685)
+30 (0.219079)
+Nearest neighbor: 69
+distanceCUBE: 0.20069
+distanceTrue: 0.106505
+tCUBE: 0.004472
+tTrue: 0.086201
+
+Query: 94
+R-near neighbors
+55 (0.315482)
+296 (0.326032)
+441 (0.337317)
+72 (0.346553)
+373 (0.3581)
+Nearest neighbor: 55
+distanceCUBE: 0.315482
+distanceTrue: 0.049688
+tCUBE: 0.004282
+tTrue: 0.083276
+
+Query: 95
+R-near neighbors
+349 (0.211767)
+310 (0.238809)
+487 (0.243489)
+299 (0.252678)
+369 (0.262248)
+Nearest neighbor: 349
+distanceCUBE: 0.211767
+distanceTrue: 0.180009
+tCUBE: 0.004338
+tTrue: 0.085126
+
+Query: 96
+R-near neighbors
+266 (0.197933)
+195 (0.214985)
+480 (0.222504)
+234 (0.234498)
+256 (0.237254)
+Nearest neighbor: 266
+distanceCUBE: 0.197933
+distanceTrue: 0.157862
+tCUBE: 0.004383
+tTrue: 0.083883
+
+Query: 97
+R-near neighbors
+373 (0.204556)
+424 (0.241827)
+414 (0.247886)
+279 (0.255559)
+267 (0.256268)
+Nearest neighbor: 373
+distanceCUBE: 0.204556
+distanceTrue: 0.105538
+tCUBE: 0.004403
+tTrue: 0.084572
+
+Query: 98
+R-near neighbors
+70 (0.192395)
+405 (0.206146)
+374 (0.228437)
+358 (0.238257)
+60 (0.239135)
+Nearest neighbor: 70
+distanceCUBE: 0.192395
+distanceTrue: 0.0364062
+tCUBE: 0.004394
+tTrue: 0.085892
+
+Query: 99
+R-near neighbors
+414 (0.25056)
+69 (0.253836)
+235 (0.259112)
+384 (0.267382)
+279 (0.277389)
+Nearest neighbor: 414
+distanceCUBE: 0.25056
+distanceTrue: 0.0658072
+tCUBE: 0.004473
+tTrue: 0.085495
+

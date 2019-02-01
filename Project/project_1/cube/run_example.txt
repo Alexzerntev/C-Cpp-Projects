@@ -1,0 +1,1 @@
+./cube -d ../datasets/input_small -q ../datasets/query_small -o ../results/lsh/
