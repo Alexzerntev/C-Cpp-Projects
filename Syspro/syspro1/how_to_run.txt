@@ -1,0 +1,4 @@
+./bitcoin -a ./input_data/bitcoin_balances.txt -t ./input_data/transactions.txt -v 50 -h1 10 -h2 10 -b 5
+
+/findEarnings hackerman [13:45][11-01-2017][16:00][11-01-2017]
+/findPayments hackerman [13:45][11-01-2017][16:00][11-01-2017]

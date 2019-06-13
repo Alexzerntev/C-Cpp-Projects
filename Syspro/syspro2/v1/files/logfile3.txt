@@ -1,0 +1,22 @@
+disconnected 3
+1 3 1 11 /folder31 1
+0 3 1 11 /folder_1 1
+1 3 1 20 folder31/ff311.txt 0
+0 3 1 62 folder_1/Empty File 0
+1 3 1 36 ./files/3_input/folder31/ff311.txt 0
+1 3 1 12 file32.txt 0
+1 3 1 47 ./files/3_input/file32.txt 0
+1 3 1 12 file31.txt 0
+1 3 1 47 ./files/3_input/file31.txt 0
+0 3 1 110088 file_11.txt 0
+1 3 2 11 /folder31 1
+0 3 2 11 /folder_2 1
+1 3 2 20 folder31/ff311.txt 0
+1 3 2 36 ./files/3_input/folder31/ff311.txt 0
+0 3 2 53 folder_2/file21 0
+1 3 2 12 file32.txt 0
+1 3 2 47 ./files/3_input/file32.txt 0
+0 3 2 59 file21.txt 0
+1 3 2 12 file31.txt 0
+1 3 2 47 ./files/3_input/file31.txt 0
+connected 3

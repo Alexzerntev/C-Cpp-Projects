@@ -1,0 +1,39 @@
+disconnected 2
+1 2 1 11 /folder_2 1
+0 2 1 11 /folder_1 1
+1 2 1 17 folder_2/file21 0
+0 2 1 62 folder_1/Empty File 0
+1 2 1 36 ./files/2_input/folder_2/file21 0
+1 2 1 12 file21.txt 0
+1 2 1 47 ./files/2_input/file21.txt 0
+0 2 1 110088 file_11.txt 0
+1 2 3 11 /folder_2 1
+1 2 3 17 folder_2/file21 0
+1 2 3 36 ./files/2_input/folder_2/file21 0
+1 2 3 12 file21.txt 0
+0 2 3 11 /folder31 1
+1 2 3 47 ./files/2_input/file21.txt 0
+0 2 3 56 folder31/ff311.txt 0
+0 2 3 59 file32.txt 0
+0 2 3 59 file31.txt 0
+connected 2
+disconnected 2
+1 2 1 11 /folder_2 1
+0 2 1 11 /folder_1 1
+1 2 1 17 folder_2/file21 0
+0 2 1 62 folder_1/Empty File 0
+1 2 1 36 ./files/2_input/folder_2/file21 0
+1 2 1 12 file21.txt 0
+1 2 1 47 ./files/2_input/file21.txt 0
+0 2 1 110088 file_11.txt 0
+connected 2
+disconnected 2
+1 2 1 11 /folder_2 1
+0 2 1 11 /folder_1 1
+1 2 1 17 folder_2/file21 0
+1 2 1 36 ./files/2_input/folder_2/file21 0
+0 2 1 62 folder_1/Empty File 0
+1 2 1 12 file21.txt 0
+1 2 1 47 ./files/2_input/file21.txt 0
+0 2 1 110088 file_11.txt 0
+connected 2

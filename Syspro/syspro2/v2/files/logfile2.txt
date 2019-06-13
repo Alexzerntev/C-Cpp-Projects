@@ -1,0 +1,40 @@
+disconnected 2
+1 2 1 11 /folder_2 1
+0 2 1 11 /folder_1 1
+0 2 1 403 folder_1/EmptyFile.gpg 0
+1 2 1 17 folder_2/file21 0
+1 2 1 366 ./files/2_input/folder_2/file21.gpg 0
+1 2 1 12 file21.txt 0
+1 2 1 378 ./files/2_input/file21.txt.gpg 0
+0 2 1 396 file_11.txt.gpg 0
+connected 2
+disconnected 2
+1 2 1 11 /folder_2 1
+0 2 1 11 /folder_1 1
+1 2 1 17 folder_2/file21 0
+1 2 1 366 ./files/2_input/folder_2/file21.gpg 0
+0 2 1 403 folder_1/EmptyFile.gpg 0
+1 2 1 12 file21.txt 0
+1 2 1 378 ./files/2_input/file21.txt.gpg 0
+0 2 1 396 file_11.txt.gpg 0
+connected 2
+disconnected 2
+1 2 1 11 /folder_2 1
+0 2 1 11 /folder_1 1
+0 2 1 404 folder_1/EmptyFile.gpg 0
+1 2 1 17 folder_2/file21 0
+1 2 1 366 ./files/2_input/folder_2/file21.gpg 0
+1 2 1 12 file21.txt 0
+1 2 1 378 ./files/2_input/file21.txt.gpg 0
+0 2 1 396 file_11.txt.gpg 0
+connected 2
+disconnected 2
+1 2 1 11 /folder_2 1
+0 2 1 11 /folder_1 1
+1 2 1 17 folder_2/file21 0
+1 2 1 366 ./files/2_input/folder_2/file21.gpg 0
+1 2 1 12 file21.txt 0
+1 2 1 378 ./files/2_input/file21.txt.gpg 0
+0 2 1 403 folder_1/EmptyFile.gpg 0
+0 2 1 395 file_11.txt.gpg 0
+connected 2

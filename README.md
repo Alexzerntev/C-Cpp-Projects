@@ -18,3 +18,13 @@
 
 ## PS (C, CUDA)
 *    Paralell systems project on image convolution using MPI, OpenMP and CUDA
+
+## Syspro (C, Posix)
+* 1.1 syspro1
+    Blockchain implimentation using copmlex data structures (hashtables combined with linked lists combined with binary tries) 
+
+* 1.2 syspro2
+    Multy-process application where processes exchange copies of their local files using posix pipes, signals and low level IO system calls
+
+* 1.3 syspro3
+    Multy-threaded application where clients after requesting connected other clients from server, exchange files via TCP with them

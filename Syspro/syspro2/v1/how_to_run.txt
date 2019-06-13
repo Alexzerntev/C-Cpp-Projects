@@ -1,0 +1,1 @@
+./mirror_client -n 2 -c ./files/common -i ./files/2_input -m ./files/2_mirror -b 100 -l files/logfile2.txt
